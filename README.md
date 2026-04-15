@@ -1,5 +1,6 @@
 # PointsRecord
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 Craft version for open source communities to record the contributors's monthly detail contribution on-chain.
 
 ## Project Structure
@@ -115,3 +116,7 @@ Details: `Invalid API Key (#err3)`
 https://sepolia-optimism.etherscan.io/address/0xf7833c6e5160ab6468E6CDa4672f638B4a59Cc53#code
 
 ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202412072222653.png)
+
+## License
+
+Licensed under the [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0). See [LICENSE](./LICENSE) for details.
